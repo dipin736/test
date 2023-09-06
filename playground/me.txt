@@ -1,5 +1,0 @@
-{{#user}}
-Name: Dipin Karunakaran
-Skills:Python,JavaScript,HTML,CSS,Bootstrap,Django,Angular,Flask,jQuery,MySQL,SQLite,MongoDB,Git 
-Email: dipinkarunakaran6@gmail.com 
-{{/user}}
